@@ -1,0 +1,11 @@
+[
+{
+    "model": "keys.apikeys",
+    "pk": 1,
+    "fields": {
+        "key": "AIzaSyBOqu1Rz7uxL0pPj9vbaLG_bXGH8lXDQa0",
+        "is_active": true,
+        "last_used": "2021-03-14T06:51:44.360Z"
+    }
+}
+]
